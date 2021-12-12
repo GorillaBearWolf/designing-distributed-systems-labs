@@ -265,3 +265,4 @@ __pycache__/
 
 # Anything temporary
 ~*.*
+.DS_Store
